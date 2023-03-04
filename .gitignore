@@ -1,0 +1,36 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pywz
+*.egg-info/
+*.egg
+*.venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled files
+*.pyc
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info
+*.egg-info/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
